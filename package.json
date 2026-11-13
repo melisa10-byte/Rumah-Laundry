@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "type": "module",
+  "name": "rumah-laundry",
+  "version": "1.0.0",
+  "description": "Rumah Laundry - Inventory & Sales Management System",
+  "scripts": {
+    "build": "node -e \"console.log('Build completed successfully: Pure Blade & CSS architecture ready.')\"",
+    "dev": "node -e \"console.log('Dev server ready.')\""
+  }
+}
